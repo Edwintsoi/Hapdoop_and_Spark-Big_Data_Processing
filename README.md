@@ -2,4 +2,4 @@
 MapReduce
 
 
-Unfortunately, Dataset can not be provided since they were stored on the Cluster
+Note that dataset can not be provided since they were stored in the Cluster
